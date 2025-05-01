@@ -31,13 +31,16 @@ Os principais campos utilizados na pipeline foram:
 -departamento
 
 -presenca (variável alvo: presente/ausente)
+![5](https://github.com/user-attachments/assets/3ac98269-adf5-45b5-b67b-8fa1a8f57602)
+
 
 
 3. Treinamento do modelo
 O modelo utilizado foi o Two-Class Logistic Regression, uma técnica de classificação binária que tenta prever a probabilidade de um funcionário faltar ou não no dia seguinte.
+![3](https://github.com/user-attachments/assets/b99a3a2f-c5bb-4211-a90d-0265132a9daa)
 
 
-5. Avaliação do Modelo
+4. Avaliação do Modelo
 Após o treinamento, o modelo foi avaliado utilizando as seguintes métricas:
 
 -Acurácia: O modelo obteve uma acurácia de 75%, o que significa que ele acertou 75% das previsões, considerando todos os casos.
@@ -49,6 +52,8 @@ Após o treinamento, o modelo foi avaliado utilizando as seguintes métricas:
 -Precisão: A precisão foi 0.2917, o que significa que, quando o modelo previu uma ausência, ele estava correto aproximadamente 29% das vezes.
 
 -Recall: O recall foi 0.14, o que sugere que o modelo conseguiu identificar apenas 14% das ausências reais, deixando muitas faltas passarem despercebidas.
+![4](https://github.com/user-attachments/assets/50afab0d-9120-4c33-8619-69894e316d29)
+
 
 
 Durante o desafio, aprendi que quanto mais dados o sistema possuir, mais acertivo pode ser o resultado.
