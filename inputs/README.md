@@ -1,4 +1,6 @@
-Projeto de Machine Learning: Previsão de Ausência de Funcionários
+Projeto de Machine Learning: 
+Previsão de Ausência de Funcionários
+
 Este projeto foi minha primeira experiência prática com Machine Learning e teve como objetivo criar um modelo capaz de prever a ausência de funcionários em uma empresa, 
 com base em variáveis como:
 
